@@ -1,2 +1,2 @@
-# Sistemas-Multim-dia
+# Sistemas-Multimidia
 Implementação de visão computacional 
